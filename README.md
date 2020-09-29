@@ -10,7 +10,7 @@ from bloom.bloom_filter import BloomFilter
 
 bloom = BloomFilter(1000, 0.001)
 
-bloom.add('Ayoub') #adds 'Ayoub' to the BloomFilter
+bloom.add('Ayub') #adds 'Ayub' to the BloomFilter
 
 bloom.add('Edleen') #adds 'Edleen' to the BloomFilter
 
